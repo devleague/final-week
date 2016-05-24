@@ -1,6 +1,6 @@
 # Final Week Guidelines
 
-During your final week at DebLeague, you have a couple of final assignments inorder to better prepare you as you re-enter the job market.
+During your final week at DevLeague, you have a couple of final assignments inorder to better prepare you as you re-enter the job market.
 
 1. Schedule a mock interview with an Instructor.
 1. Have your resume reviewed by an Instructor or TA.
