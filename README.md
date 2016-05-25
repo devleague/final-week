@@ -75,3 +75,4 @@ Like or hate it, your social media profiles are an extension of your resume. Rou
 * [Angel List](https://angel.co/)
 * [500 Miles](http://www.500miles.io/)
 * [Glassdoor](https://www.glassdoor.com/)
+* [Tips for networking at events](https://gist.github.com/sgnl/fb4fc1cef14cbe8fed12b759a64cfdfa)
